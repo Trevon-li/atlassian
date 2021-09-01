@@ -16,7 +16,8 @@ public  class TestDao {
                 System.out.println("--第"+i+"楼--第"+j+"室");
                 for (int k = 1; k <= 2; k++) {
                     System.out.println("第"+i+"楼"+k+"室");
-                }
+                    System.out.println("两室一厅");
+
 
             }
         }
